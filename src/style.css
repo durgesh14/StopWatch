@@ -3,6 +3,14 @@ body {
     background: #6C4AB6;
 }
 
+.title{
+  font-size: 50px;
+  text-align: center;
+  color: #EEEEEE;
+  padding-top: 2%;;
+  font-weight: 700;
+}
+
 #container {
   
     width: 25vw;
